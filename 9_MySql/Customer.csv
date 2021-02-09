@@ -1,0 +1,19 @@
+customer_id,first_name,last_name,birth_date,phone,address,city,state,points
+1,Babara,MacCaffrey,1986-03-28,781-932-9754,0 Sage Terrace,Waltham,MA,2273
+2,Ines,Brushfield,1986-04-13,804-427-9456,14187 Commercial Trail,Hampton,VA,947
+3,Freddi,Boagey,1985-02-07,719-724-7869,251 Springs Junction,Colorado Springs,CO,2967
+4,Ambur,Roseburgh,1974-04-14,407-231-8017,30 Arapahoe Terrace,Orlando,FL,457
+5,Clemmie,Betchley,1973-11-07,,5 Spohn Circle,Arlington,TX,3675
+6,Elka,Twiddell,1991-09-04,312-480-8498,7 Manley Drive,Chicago,IL,3073
+7,Ilene,Dowson,1964-08-30,615-641-4759,50 Lillian Crossing,Nashville,TN,1672
+8,Thacher,Naseby,1993-07-17,941-527-3977,538 Mosinee Center,Sarasota,FL,205
+9,Romola,Rumgay,1992-05-23,559-181-3744,3520 Ohio Trail,Visalia,CA,1486
+10,Levy,Mynett,1969-10-13,404-246-3370,68 Lawn Avenue,Atlanta,GA,796
+11,Robert,Pattionson,1992-02-29,404-234-2222,255 Avenue,Los Angeles,LA,0
+12,Andy,Warholl,1991-03-29,404-234-5322,245 Avenue,Atlanta,GA,0
+13,Buzz,Lightyear,1990-03-15,404-234-5367,045 Avenue,Visalia,ca,0
+14,woody,Fish,1994-01-01,404-784-5367,005 Avenue,Visalia,ca,0
+15,Andy,Budiman,1991-08-17,,Jl.Mawar,Jakarta,DK,0
+16,Tio,Sableng,1991-05-27,,Jl.Mawar VI,Jakarta,DK,0
+20,Andy,Budiman,1991-08-17,,Jl.Mawar,Jakarta,DK,0
+21,Tio,Sableng,1991-05-27,,Jl.Mawar VI,Jakarta,DK,0
